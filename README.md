@@ -1,9 +1,14 @@
 **🧾 Life Insurance Business Performance Dashboard**
+
+---
+
 **📊 Project Overview**
 
 This project presents an interactive Power BI dashboard designed for Life Insurance Pvt. Ltd. to analyze key performance metrics related to insurance policies, claims, and customer demographics.
 
 The goal is to enable management to make data-driven decisions by visualizing premium trends, claim behaviors, and policy activity through a unified and interactive Power BI solution.
+
+---
 
 **🏢 Business Problem**
 
@@ -22,8 +27,11 @@ Evaluate customer engagement through active/inactive policies
 
 Optimize marketing and policy design for target age groups
 
-Objective:
+**Objective:**
+
 To develop a Power BI dashboard that connects directly to the company’s SQL Server database, consolidating all relevant information into a single, interactive view for better business insight and strategic decision-making.
+
+---
 
 **❓ Key Business Questions**
 
@@ -37,6 +45,8 @@ How are claims distributed among settled, pending, and rejected statuses?
 
 Which age groups contribute most to claim amounts?
 
+---
+
 **🧮 Key Performance Indicators (KPIs)**
 
 | KPI                                   | Description                                  |
@@ -49,6 +59,7 @@ Which age groups contribute most to claim amounts?
 | **Average Claim Amount by Age Group** | Claim trends segmented by age categories     |
 | **Gender Distribution**               | Distribution of policyholders by gender      |
 
+---
 
 **🛠️ Tools & Technologies Used**
 
@@ -62,7 +73,10 @@ DAX (Data Analysis Expressions) – Custom measures and KPIs
 
 Excel / CSV – Supplementary reference data
 
+---
+
 **📈 Dashboard Overview**
+
 **1. Summary KPIs**
 
 Premium Amount: 5.98M
@@ -99,6 +113,8 @@ Young Adults: Lowest claim amount (1.7M)
 
 💡 Additional interactivity such as cross-filtering and drill-through was implemented to allow users to explore customer and policy-level details for deeper insights.
 
+---
+
 **🧩 Insights & Recommendations**
 
 Travel Insurance generates the highest premium — cross-selling with Life or Health policies can enhance revenue.
@@ -108,6 +124,8 @@ Claim rejection rate indicates a need for better claim documentation and verific
 Adults have the highest claim ratio — adjust policy pricing or coverage accordingly.
 
 Inactive policy rate (41.87%) suggests potential retention issues — consider targeted renewal campaigns.
+
+---
 
 **📁 Dataset Description**
 
@@ -125,6 +143,8 @@ Inactive policy rate (41.87%) suggests potential retention issues — consider t
 | `ClaimStatus`    | Claim outcome (Pending, Settled, Rejected)           |
 | `PolicyStatus`   | Indicates whether policy is Active or Inactive       |
 
+---
+
 **🧠 Learnings**
 
 Strengthened understanding of insurance analytics and KPI measurement.
@@ -135,10 +155,13 @@ Applied DAX measures for calculating dynamic metrics.
 
 Implemented drill-through and cross-filtering for advanced interactivity.
 
+---
+
 **📸 Dashboard Preview**
 
+Refer to the dataset 
 
-
+---
 
 **🚀 How to Use**
 
@@ -149,6 +172,8 @@ Open in Microsoft Power BI Desktop.
 Interact with filters and visuals to explore data.
 
 Use drill-through to view details for selected customers or policies.
+
+---
 
 **💬 Author**
 
