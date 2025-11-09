@@ -1,4 +1,4 @@
-<img width="250" height="184" alt="image" src="https://github.com/user-attachments/assets/4b3396da-b800-4aef-ab5f-b4cc2e5d3066" /># 🧾 Life Insurance Business Performance Dashboard
+## 🧾 Life Insurance Business Performance Dashboard
 
 
 ---
