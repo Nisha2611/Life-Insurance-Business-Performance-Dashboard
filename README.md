@@ -1,16 +1,16 @@
-🧾 Life Insurance Business Performance Dashboard
-📊 Project Overview
+**🧾 Life Insurance Business Performance Dashboard**
+**📊 Project Overview**
 
 This project presents an interactive Power BI dashboard designed for Life Insurance Pvt. Ltd. to analyze key performance metrics related to insurance policies, claims, and customer demographics.
 
 The goal is to enable management to make data-driven decisions by visualizing premium trends, claim behaviors, and policy activity through a unified and interactive Power BI solution.
 
-🏢 Business Problem
+**🏢 Business Problem**
 
-Background:
+**Background:**
 Life Insurance Pvt. Ltd. offers multiple insurance products such as Life, Health, Travel, Auto, and Home policies. The company needed a centralized view of its core business metrics — including revenue from premiums, claim settlements, policy activity, and customer demographics.
 
-Problem Statement:
+**Problem Statement:**
 Due to data spread across multiple systems, management lacked visibility into how different policy types and claim statuses impacted overall business performance.
 This limited their ability to:
 
@@ -25,7 +25,7 @@ Optimize marketing and policy design for target age groups
 Objective:
 To develop a Power BI dashboard that connects directly to the company’s SQL Server database, consolidating all relevant information into a single, interactive view for better business insight and strategic decision-making.
 
-❓ Key Business Questions
+**❓ Key Business Questions**
 
 What is the total premium, coverage, and claim amount collected?
 
@@ -37,7 +37,7 @@ How are claims distributed among settled, pending, and rejected statuses?
 
 Which age groups contribute most to claim amounts?
 
-🧮 Key Performance Indicators (KPIs)
+**🧮 Key Performance Indicators (KPIs)**
 
 | KPI                                   | Description                                  |
 | ------------------------------------- | -------------------------------------------- |
@@ -50,7 +50,7 @@ Which age groups contribute most to claim amounts?
 | **Gender Distribution**               | Distribution of policyholders by gender      |
 
 
-🛠️ Tools & Technologies Used
+**🛠️ Tools & Technologies Used**
 
 Power BI – For dashboard creation and data visualization
 
@@ -62,8 +62,8 @@ DAX (Data Analysis Expressions) – Custom measures and KPIs
 
 Excel / CSV – Supplementary reference data
 
-📈 Dashboard Overview
-1. Summary KPIs
+**📈 Dashboard Overview**
+**1. Summary KPIs**
 
 Premium Amount: 5.98M
 
@@ -71,13 +71,13 @@ Coverage Amount: 600.55M
 
 Claim Amount: 16.91M
 
-2. Policy Performance
+**2. Policy Performance**
 
 Highest premiums from Travel Insurance (2.5M)
 
 Lowest from Home Insurance (0.6M)
 
-3. Claim Insights
+**3. Claim Insights**
 
 Rejected Claims: 4.4K
 
@@ -85,13 +85,13 @@ Settled Claims: 3.4K
 
 Pending Claims: 2.3K
 
-4. Policy Activity
+**4. Policy Activity**
 
 Active: 58.13%
 
 Inactive: 41.87%
 
-5. Age Group Analysis
+**5. Age Group Analysis**
 
 Adults: Highest claim amount (8.8M)
 
@@ -99,7 +99,7 @@ Young Adults: Lowest claim amount (1.7M)
 
 💡 Additional interactivity such as cross-filtering and drill-through was implemented to allow users to explore customer and policy-level details for deeper insights.
 
-🧩 Insights & Recommendations
+**🧩 Insights & Recommendations**
 
 Travel Insurance generates the highest premium — cross-selling with Life or Health policies can enhance revenue.
 
@@ -109,7 +109,7 @@ Adults have the highest claim ratio — adjust policy pricing or coverage accord
 
 Inactive policy rate (41.87%) suggests potential retention issues — consider targeted renewal campaigns.
 
-📁 Dataset Description
+**📁 Dataset Description**
 
 | Column Name      | Description                                          |
 | ---------------- | ---------------------------------------------------- |
@@ -125,7 +125,7 @@ Inactive policy rate (41.87%) suggests potential retention issues — consider t
 | `ClaimStatus`    | Claim outcome (Pending, Settled, Rejected)           |
 | `PolicyStatus`   | Indicates whether policy is Active or Inactive       |
 
-🧠 Learnings
+**🧠 Learnings**
 
 Strengthened understanding of insurance analytics and KPI measurement.
 
@@ -135,12 +135,12 @@ Applied DAX measures for calculating dynamic metrics.
 
 Implemented drill-through and cross-filtering for advanced interactivity.
 
-📸 Dashboard Preview
+**📸 Dashboard Preview**
 
 
 
 
-🚀 How to Use
+**🚀 How to Use**
 
 Download the .pbix file from this repository.
 
@@ -150,7 +150,7 @@ Interact with filters and visuals to explore data.
 
 Use drill-through to view details for selected customers or policies.
 
-💬 Author
+**💬 Author**
 
 👩‍💻 Author Nisha2611 Data Analyst | Passionate about SQL & Data Cleaning
 
