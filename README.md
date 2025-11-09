@@ -72,7 +72,7 @@ Power Query – Data cleaning and transformation
 
 DAX (Data Analysis Expressions) – Custom measures and KPIs
 
-Excel / CSV – Supplementary reference data
+CSV – Supplementary reference data
 
 ---
 
