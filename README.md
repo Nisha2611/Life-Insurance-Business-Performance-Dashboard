@@ -75,7 +75,7 @@ DAX (Data Analysis Expressions) – Custom measures and KPIs
 CSV – Supplementary reference data
 
 ---
-## Project Folder Structure
+**Project Folder Structure**
 
     data/
     ├── Insurance Project.pbix
